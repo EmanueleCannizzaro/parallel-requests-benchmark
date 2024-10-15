@@ -1,12 +1,14 @@
 import logging
 
 class Config():
-    NO_OF_TASKS : int = 200
+    NO_OF_TASKS : int = 5
     NO_TASKS_IN_BATCH : int = 100
     URL : str = 'https://httpbin.org/uuid'
     TIMEOUT : float = 15.0
     INTERVAL_BETWEEN_BATCHES : float = 3.0
     # MINIMUM_WAITING_TIME : float =0.001
+    RETRIES : int = 1
+    BACKOFF_FACTOR : float = 0.3
 
     '''
     The timeit.repeat function in Python is used to measure the execution time of code repeatedly. Here are the key options:
@@ -29,7 +31,9 @@ class Config():
 
 
 logger = logging.getLogger('parallel_requests_benchmark')
-logging.basicConfig(filename='parallel_requests_benchmark.log', encoding='utf-8', level=logging.DEBUG)
+logging.basicConfig(filename='parallel_requests_benchmark.log', 
+                    encoding='utf-8', 
+                    level=logging.INFO)
 logger.info('\n\nThis is a new execution of the program.\n\n')
 
 config = Config()
