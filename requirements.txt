@@ -1,2 +1,5 @@
-requests
 aiohttp
+anyio
+asyncio
+httpx
+requests
