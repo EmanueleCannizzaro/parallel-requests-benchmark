@@ -15,7 +15,7 @@ logger = logging.getLogger('parallel_requests_benchmark.test_multiprocessing_req
 def main():
     with Pool() as pool:
         with requests.Session() as session:
-            pool.starmap(fetch, [(session, config.URL, logger) for _ in range(config.NO_OF_TASKS)])
+            pool.starmap(fetch, [(session, config.URL, task_id, logger) for task_id in range(config.NO_OF_TASKS)])
 
 
 if __name__ == '__main__':

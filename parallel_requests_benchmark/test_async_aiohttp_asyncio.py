@@ -29,20 +29,27 @@ async def fetch(session, url, logger):
 
 async def main_async():
     no_of_executed_tasks : int = 0
+    results = []
     try:
         timeout = aiohttp.ClientTimeout(total=config.TIMEOUT) 
-        async with aiohttp.ClientSession(timeout=timeout) as session:
-            for batch_start in range(0, config.NO_OF_TASKS, config.NO_TASKS_IN_BATCH):
-                batch_end = min(batch_start + config.NO_TASKS_IN_BATCH, config.NO_OF_TASKS)
-                tasks = [fetch(session, config.URL, logger) for _ in range(batch_start, batch_end)]
-                await asyncio.gather(*tasks, return_exceptions=True)
+        connector = aiohttp.TCPConnector(limit=config.MAX_CONNECTIONS, 
+                                         limit_per_host=config.MAX_KEEPALIVE_CONNECTIONS)
+        async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+            for batch_start in range(0, config.NO_OF_TASKS, config.NO_OF_TASKS_IN_BATCH):
+                batch_end = min(batch_start + config.NO_OF_TASKS_IN_BATCH, config.NO_OF_TASKS)
+                tasks = [fetch(session, config.URL, task_id, logger) for task_id in range(batch_start, batch_end)]
+                _results = await asyncio.gather(*tasks, return_exceptions=True)
                 if (batch_start > 0) and (batch_end < config.NO_OF_TASKS):
                     await asyncio.sleep(config.INTERVAL_BETWEEN_BATCHES)
                 no_of_executed_tasks += len(tasks)
-    except:
-        if no_of_executed_tasks != config.NO_OF_TASKS:
-            logger.warning(f":::WARNING::: Not all the tasks have been completed!")
-    #assert(no_of_executed_tasks == config.NO_OF_TASKS)
+                results.extend(_results)
+            return results
+    except Exception as e:
+        logger.warning(f":::ERROR::: Not all the tasks have been completed! \nError: {e}")
+
+    if no_of_executed_tasks != config.NO_OF_TASKS:
+        logger.warning(f":::WARNING::: Only {no_of_executed_tasks} out of {config.NO_OF_TASKS} tasks have been completed.")
+
 
 
 @timer(name=os.path.splitext(os.path.basename(__file__))[0], number=config.NO_OF_NUMBERS, repeat=config.NO_OF_REPEATS)

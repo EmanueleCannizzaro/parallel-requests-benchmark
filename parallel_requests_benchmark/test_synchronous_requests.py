@@ -11,10 +11,11 @@ from timer import timer
 logger = logging.getLogger('parallel_requests_benchmark.test_synchronous_requests')
 
 
-def fetch(session, url, logger):
+def fetch(session, url, task_id, logger):
     try:
         with session.get(url, timeout=config.TIMEOUT) as response:
             logger.info(response.json()['uuid'])
+            return task_id
     except requests.exceptions.Timeout:
         print("The request timed out.")
     except requests.exceptions.ConnectionError:
@@ -37,7 +38,7 @@ def main():
         session.mount("http://", adapter)
         session.mount("https://", adapter)
         for _ in range(config.NO_OF_TASKS):
-            fetch(session, config.URL, logger)
+            fetch(session, config.URL, 0, logger)
 
 
 if __name__ == '__main__':
