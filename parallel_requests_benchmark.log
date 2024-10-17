@@ -3,381 +3,381 @@ INFO:parallel_requests_benchmark:
 This is a new execution of the program.
 
 
-INFO:parallel_requests_benchmark.test_synchronous_requests:54f8c98c-9836-47e1-996f-38ae976471db
-INFO:parallel_requests_benchmark.test_synchronous_requests:cfa0dd3a-e178-49ed-b9e2-2918cc83082d
-INFO:parallel_requests_benchmark.test_synchronous_requests:2b33925c-1989-4e98-a9ad-8af89aec5212
-INFO:parallel_requests_benchmark.test_synchronous_requests:f90bfc72-1be2-4f67-8522-b77608066af8
-INFO:parallel_requests_benchmark.test_synchronous_requests:d861634a-64c8-4b5b-84b7-5febbb509666
-INFO:parallel_requests_benchmark.test_synchronous_requests:c6d8030f-2fac-4cf1-bf96-1c6565ff88f8
-INFO:parallel_requests_benchmark.test_synchronous_requests:a66ad1e2-8559-46d5-9c1e-202f1b6672ea
-INFO:parallel_requests_benchmark.test_synchronous_requests:a9ebe692-95d4-47c7-9e13-8a3eb7342db6
-INFO:parallel_requests_benchmark.test_synchronous_requests:17cb91bb-3641-4ac5-9368-434dda37da8b
-INFO:parallel_requests_benchmark.test_synchronous_requests:d85743d4-7335-4471-a248-8e45576c67d0
-INFO:parallel_requests_benchmark.test_synchronous_requests:cbef1401-829e-49f0-ae88-206fdd2b8124
-INFO:parallel_requests_benchmark.test_synchronous_requests:a451e00f-e17c-42fb-bc40-7b70d9f3a5f2
-INFO:parallel_requests_benchmark.test_synchronous_requests:2100089d-e7b2-4abe-8554-9363928baed7
-INFO:parallel_requests_benchmark.test_synchronous_requests:cb04c056-4a58-4aad-b468-0c48c479e2c6
-INFO:parallel_requests_benchmark.test_synchronous_requests:3b688031-cf1e-4fcf-a1ce-e47619df3b6f
-INFO:parallel_requests_benchmark.test_synchronous_requests:942670c5-ba7d-4653-810a-95f821d56589
-INFO:parallel_requests_benchmark.test_synchronous_requests:33c3b1db-c92f-401e-9351-3f2b8da5c571
-INFO:parallel_requests_benchmark.test_synchronous_requests:afd565b5-0e1a-4cc8-ade7-411a3b30dbd0
-INFO:parallel_requests_benchmark.test_synchronous_requests:07018512-8f62-4e6f-9e93-2d7426ebe568
-INFO:parallel_requests_benchmark.test_synchronous_requests:963b3606-5bbf-4903-95b9-02d43eb20887
-INFO:parallel_requests_benchmark.test_synchronous_requests:e65ceaf3-47a6-4927-b4bb-fa77c9a401c7
-INFO:parallel_requests_benchmark.test_synchronous_requests:ce34ee01-ac03-4d04-9a29-a394305af34b
-INFO:parallel_requests_benchmark.test_synchronous_requests:30a08bb6-6689-4a1c-bbf8-4754cfd9d34c
-INFO:parallel_requests_benchmark.test_synchronous_requests:59ac9b46-af95-4ac8-b600-ad53b9bc6cf5
-INFO:parallel_requests_benchmark.test_synchronous_requests:8a28dc0d-a1c3-46a5-8a7c-cf9443cfbc2b
-INFO:parallel_requests_benchmark.test_synchronous_requests:224737bb-cee3-448d-96de-0c17699b233d
-INFO:parallel_requests_benchmark.test_synchronous_requests:c82e77ec-34ba-45a4-b6fc-fd98d9867b1a
-INFO:parallel_requests_benchmark.test_synchronous_requests:50fa011c-8eb5-4899-9794-c8a8a7b9ec55
-INFO:parallel_requests_benchmark.test_synchronous_requests:1f8e2c34-26c7-4d0c-817d-d59c49d46992
-INFO:parallel_requests_benchmark.test_synchronous_requests:5aaa57a4-5b2b-4ed5-93db-bb8973862358
-INFO:parallel_requests_benchmark.test_synchronous_requests:2810f721-c6bb-4066-907f-d41900e99d85
-INFO:parallel_requests_benchmark.test_synchronous_requests:7c8d5a58-0b29-4b49-93cd-c6086465b7ac
-INFO:parallel_requests_benchmark.test_synchronous_requests:a9c8c9c7-5df8-4f05-b04f-9a3a6c140b29
-INFO:parallel_requests_benchmark.test_synchronous_requests:782ec8b0-b3eb-4013-9204-2557e8f7ce07
-INFO:parallel_requests_benchmark.test_synchronous_requests:2e75a5de-8348-4862-9858-5d40b21b663d
-INFO:parallel_requests_benchmark.test_synchronous_requests:5b727b16-0d31-453f-b731-c85a1205c286
-INFO:parallel_requests_benchmark.test_synchronous_requests:78de6aa2-64da-4797-bc9f-9fd3e8884870
-INFO:parallel_requests_benchmark.test_synchronous_requests:571690d7-403c-4a29-a6fd-53357eb03016
-INFO:parallel_requests_benchmark.test_synchronous_requests:1c78d47c-adce-43da-9d53-ef0d0357ea2f
-INFO:parallel_requests_benchmark.test_synchronous_requests:0758dcae-f290-43e6-8358-e76aee6c50da
-INFO:parallel_requests_benchmark.test_synchronous_requests:446c9ed3-fe9c-4dc1-9411-98bc9298b843
-INFO:parallel_requests_benchmark.test_synchronous_requests:983e97af-24b6-48f0-ab2d-33231d0c8e44
-INFO:parallel_requests_benchmark.test_synchronous_requests:1d39c422-c1ea-43f7-9cfc-9c2364f56a5b
-INFO:parallel_requests_benchmark.test_synchronous_requests:58fb2ef0-03c9-47ad-aaf3-99643f651c48
-INFO:parallel_requests_benchmark.test_synchronous_requests:6e2c4767-e7f4-4699-a6ef-8ab463fc2dd7
-INFO:parallel_requests_benchmark.test_synchronous_requests:ec774c66-3a2e-44a5-88b9-897867eef489
-INFO:parallel_requests_benchmark.test_synchronous_requests:a234d529-e0ab-42af-a43e-60e6887fcdb0
-INFO:parallel_requests_benchmark.test_synchronous_requests:d45bdc2b-390e-4f0d-a16e-c0a749e31783
-INFO:parallel_requests_benchmark.test_synchronous_requests:bab7ba12-7036-4682-bd1f-73fe70f242f7
-INFO:parallel_requests_benchmark.test_synchronous_requests:9cb2ec6f-6d07-4c13-80bb-4d9e7ed0ef49
-INFO:parallel_requests_benchmark.test_synchronous_requests:0838a3f4-b358-496c-8e18-083f785c84c9
-INFO:parallel_requests_benchmark.test_synchronous_requests:20fef2bd-2b2c-4f02-ae02-f29f9deab9a2
-INFO:parallel_requests_benchmark.test_synchronous_requests:79dbb3ee-0a6e-4f25-a435-477a41a9b83d
-INFO:parallel_requests_benchmark.test_synchronous_requests:1cb9c33f-e6ab-4244-974f-3f604d6a5083
-INFO:parallel_requests_benchmark.test_synchronous_requests:4ada6882-7429-419e-9b29-8de3825f56ce
-INFO:parallel_requests_benchmark.test_synchronous_requests:e723f9ed-946f-45e3-b5a3-c45649600735
-INFO:parallel_requests_benchmark.test_synchronous_requests:22e6f234-5a1b-47ac-9e93-d755ed35b382
-INFO:parallel_requests_benchmark.test_synchronous_requests:0633ba2f-8533-49fc-b98c-fea0088ae3fa
-INFO:parallel_requests_benchmark.test_synchronous_requests:c2359896-4194-4408-bed1-1a78ed01957d
-INFO:parallel_requests_benchmark.test_synchronous_requests:4bef27c5-73ea-42d6-b833-9629849f4242
+INFO:parallel_requests_benchmark.test_synchronous_requests:13aadfc4-9a6f-4373-aded-4e54f9e29f80
+INFO:parallel_requests_benchmark.test_synchronous_requests:fff795f2-baee-452b-b50b-3d9da22088e0
+INFO:parallel_requests_benchmark.test_synchronous_requests:c303c422-c3aa-4c6a-b39c-78198e446e5b
+INFO:parallel_requests_benchmark.test_synchronous_requests:496c4485-b2a5-44bc-bd04-9b32cfaee764
+INFO:parallel_requests_benchmark.test_synchronous_requests:f4421ca9-27b0-42d8-8226-deabd830a59a
+INFO:parallel_requests_benchmark.test_synchronous_requests:5facd61d-9d07-4dd4-b0fc-173ffac7feb8
+INFO:parallel_requests_benchmark.test_synchronous_requests:84592308-bf54-454b-8600-8afd8c6e5ea4
+INFO:parallel_requests_benchmark.test_synchronous_requests:61542e06-bee3-44c3-88da-1b25dc8b0ed7
+INFO:parallel_requests_benchmark.test_synchronous_requests:3472df5a-0ca8-48d2-a7fa-eca65405e92e
+INFO:parallel_requests_benchmark.test_synchronous_requests:158eac44-73e3-4361-8312-cfc6ad362ecb
+INFO:parallel_requests_benchmark.test_synchronous_requests:ad5f25e0-d786-49a9-ab5c-0bb3c537ff32
+INFO:parallel_requests_benchmark.test_synchronous_requests:713c6f3e-dd77-49ea-a388-b7ba2ff168de
+INFO:parallel_requests_benchmark.test_synchronous_requests:9d30acc5-9c82-400b-97ba-a9c7d0553df3
+INFO:parallel_requests_benchmark.test_synchronous_requests:4042849d-7b30-4aa5-b12a-366d9c1c6505
+INFO:parallel_requests_benchmark.test_synchronous_requests:e63fee57-f3e0-4974-9659-39ba075e18d6
+INFO:parallel_requests_benchmark.test_synchronous_requests:75feaf4e-4108-456d-a88e-68c7542844d2
+INFO:parallel_requests_benchmark.test_synchronous_requests:94cef167-ff38-4a9b-9a15-f363c505e3fd
+INFO:parallel_requests_benchmark.test_synchronous_requests:d79946f4-5cd3-43b1-b5aa-1fbe574c24bc
+INFO:parallel_requests_benchmark.test_synchronous_requests:4a11b50a-b7b6-4c1d-9b25-ec9e08550d96
+INFO:parallel_requests_benchmark.test_synchronous_requests:f7985d87-5008-4299-b98f-52f1dc69a748
+INFO:parallel_requests_benchmark.test_synchronous_requests:26c0f3fb-98ba-4db4-9fb5-adaa3b8dabf5
+INFO:parallel_requests_benchmark.test_synchronous_requests:d0e8a344-e61d-43de-897c-de4e2dd212fb
+INFO:parallel_requests_benchmark.test_synchronous_requests:c4e906b6-5c19-4ae5-be37-4bc67afc0e8d
+INFO:parallel_requests_benchmark.test_synchronous_requests:5e0f0a9b-d2d9-40e4-96d8-5bed2acb2b7b
+INFO:parallel_requests_benchmark.test_synchronous_requests:580a8f09-1520-4e6d-bb93-f2528a6c63f8
+INFO:parallel_requests_benchmark.test_synchronous_requests:c3d1bec7-f3e6-4149-9be3-5705c789aaf4
+INFO:parallel_requests_benchmark.test_synchronous_requests:f8e115c9-bd98-4184-8983-b1edc7aa978d
+INFO:parallel_requests_benchmark.test_synchronous_requests:7c154eaa-03c7-4445-a105-1ea0b2221306
+INFO:parallel_requests_benchmark.test_synchronous_requests:eb3cb648-4081-4c72-bd25-e8834a0a4147
+INFO:parallel_requests_benchmark.test_synchronous_requests:62454eed-4987-4afa-8629-3a3850319bcd
+INFO:parallel_requests_benchmark.test_synchronous_requests:ad6fc67c-5808-4fbb-87e9-d96ae5af9159
+INFO:parallel_requests_benchmark.test_synchronous_requests:41481d31-9568-4fe6-95e6-91ce33388370
+INFO:parallel_requests_benchmark.test_synchronous_requests:bd0a7ebd-10e5-47cf-b6a9-73784e93ef1d
+INFO:parallel_requests_benchmark.test_synchronous_requests:d3657686-bf03-4008-b89f-219dd49586b2
+INFO:parallel_requests_benchmark.test_synchronous_requests:e76d7e87-0e53-44ab-bbb8-ba71e4f6e203
+INFO:parallel_requests_benchmark.test_synchronous_requests:35947da6-0946-496a-8a70-edd02ec533da
+INFO:parallel_requests_benchmark.test_synchronous_requests:24d67d4a-1219-4b27-a615-f33130f82699
+INFO:parallel_requests_benchmark.test_synchronous_requests:2fa4edd0-bbb0-446c-9870-3a7cb2554660
+INFO:parallel_requests_benchmark.test_synchronous_requests:ba3cc0f9-4bc0-4117-9f99-351274b20468
+INFO:parallel_requests_benchmark.test_synchronous_requests:743429c6-28d5-4808-9142-b026a3ca7750
+INFO:parallel_requests_benchmark.test_synchronous_requests:ec50d757-ae9c-4006-a28a-4959852e09a5
+INFO:parallel_requests_benchmark.test_synchronous_requests:84d25bdc-4f8b-4ea4-b99f-961bb79baae4
+INFO:parallel_requests_benchmark.test_synchronous_requests:07170889-2bf4-4312-abcd-82bcf7d1dc96
+INFO:parallel_requests_benchmark.test_synchronous_requests:a99474b8-46ef-40bc-8c3e-35905a24c8e8
+INFO:parallel_requests_benchmark.test_synchronous_requests:f8bcee91-3625-4aca-8baa-162f99a7502c
+INFO:parallel_requests_benchmark.test_synchronous_requests:f225da85-a214-40fd-b3ab-0c9d14d9bdec
+INFO:parallel_requests_benchmark.test_synchronous_requests:0f72d197-44bd-414f-9056-7ccca5ce79a1
+INFO:parallel_requests_benchmark.test_synchronous_requests:afb02eb1-339d-4b25-a9c1-07b51c576610
+INFO:parallel_requests_benchmark.test_synchronous_requests:941b2032-2abd-45e9-b6fb-bfb52bafdcde
+INFO:parallel_requests_benchmark.test_synchronous_requests:7297804e-45ca-42f7-9e23-7f8d11702ad8
+INFO:parallel_requests_benchmark.test_synchronous_requests:259a7c72-c606-4ca6-b182-fd98c55ba4e0
+INFO:parallel_requests_benchmark.test_synchronous_requests:3fecbeaa-2c9f-4e1b-846b-49d6b6553442
+INFO:parallel_requests_benchmark.test_synchronous_requests:e3657931-8010-4702-8900-6454abf505f3
+INFO:parallel_requests_benchmark.test_synchronous_requests:26f3d4e1-bce4-4fed-ba1b-951762d40c63
+INFO:parallel_requests_benchmark.test_synchronous_requests:fe77c50c-d8aa-4a18-a3b9-a7d9ab8d7508
+INFO:parallel_requests_benchmark.test_synchronous_requests:3a8178c2-ec42-44db-9e4d-676094ae38f8
+INFO:parallel_requests_benchmark.test_synchronous_requests:0bc617bf-0804-43d0-9c7e-994078f79fef
+INFO:parallel_requests_benchmark.test_synchronous_requests:6bb863a1-4a1e-470f-a43a-84859d06d078
+INFO:parallel_requests_benchmark.test_synchronous_requests:f5680ad3-01ce-4fc1-a356-321d59fcd38d
+INFO:parallel_requests_benchmark.test_synchronous_requests:649ece43-fb3e-4d11-aa26-6e5a2c0ec860
 INFO:parallel_requests_benchmark:
 
 This is a new execution of the program.
 
 
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:e21976d7-159a-4653-89ac-0fa62414a4f3
+INFO:parallel_requests_benchmark.test_synchronous_httpx:728e5379-c563-4ee6-93b2-a6b558d9117a
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:1576e462-dc95-4d96-bb69-af15bbb011c6
+INFO:parallel_requests_benchmark.test_synchronous_httpx:6287d8a8-2933-4e2d-82f5-169b774b0b94
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:69873642-33ce-4ea2-8097-e01443d05e8e
+INFO:parallel_requests_benchmark.test_synchronous_httpx:94b20704-bc99-4384-94c2-e75106591793
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:d2de5f20-bda5-48b7-8c85-b781552ea14f
+INFO:parallel_requests_benchmark.test_synchronous_httpx:c6c4b4d1-97b9-4aa6-94db-9ad08657ba4b
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:fa1adda2-742b-4dd1-8168-78d159ee195e
+INFO:parallel_requests_benchmark.test_synchronous_httpx:bed88607-cf41-4e01-baf0-52f5793f5571
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:e8056a43-5db0-4e82-b5cb-f0e111fda527
+INFO:parallel_requests_benchmark.test_synchronous_httpx:5520ab11-1590-4682-a513-fd2645bcbcb9
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:2b22f616-c118-48f7-b1f6-800915d6f0d5
+INFO:parallel_requests_benchmark.test_synchronous_httpx:96ea050a-8033-412d-a823-937c48d3f9d9
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:8e2787b6-bb11-44ae-9366-2145b967d878
+INFO:parallel_requests_benchmark.test_synchronous_httpx:3a838cde-0ec9-4760-a669-24ec874ba97d
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:e44b782d-e667-4261-a4a3-1f2c751812c6
+INFO:parallel_requests_benchmark.test_synchronous_httpx:12b1471f-7035-493b-a7da-3f50f8bb2f08
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:f56e02f1-6774-4b38-b646-203596e9ad17
+INFO:parallel_requests_benchmark.test_synchronous_httpx:6d12a86c-e9d5-42e0-b1c5-f8fc89703dbe
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:87f4f124-51b2-4b67-bd18-de00d18cd542
+INFO:parallel_requests_benchmark.test_synchronous_httpx:831bea9a-cd04-4cd9-aad4-7cec271daedf
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:81de92fe-0437-43b7-b8fc-55d1d0d36f5d
+INFO:parallel_requests_benchmark.test_synchronous_httpx:d2c7cc06-493e-40bc-8b91-63ea565e3d22
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:57d831c5-f840-4f1e-9036-f31e712b1a0c
+INFO:parallel_requests_benchmark.test_synchronous_httpx:ac0477a1-c5d8-472b-8dbd-beff6d58bba8
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:d6088cdc-2391-445b-921c-ff7baf5ded6b
+INFO:parallel_requests_benchmark.test_synchronous_httpx:cd14c9c6-33db-443b-8891-b6c63d0012c3
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:d5a00cd3-7763-42ec-b0d9-ee3e92b245ea
+INFO:parallel_requests_benchmark.test_synchronous_httpx:8abb3fd8-042f-42e9-85a7-7a73072874e3
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:b7b985d7-b846-4934-8609-cede538b3fcf
+INFO:parallel_requests_benchmark.test_synchronous_httpx:fc918038-f4e3-42fb-b956-31337c1b3270
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:5136ea11-9c8f-4f74-a35f-bf381b0f59d1
+INFO:parallel_requests_benchmark.test_synchronous_httpx:66c58799-f7d4-41f7-a58d-7845859a30aa
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:ed4813c8-6ebc-4233-9cd9-643943402519
+INFO:parallel_requests_benchmark.test_synchronous_httpx:c0df59b8-50e0-452b-b418-0f09f12cb768
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:1ed06ff3-e827-4b83-acad-59180e34dfcd
+INFO:parallel_requests_benchmark.test_synchronous_httpx:988b1ec8-85c0-4ea7-9063-927d5f932969
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:b70758f1-962a-471d-9f5b-da3625ea1ed8
+INFO:parallel_requests_benchmark.test_synchronous_httpx:22bfb662-9f4a-431d-81e6-34503f0be807
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:a494ebd6-1177-4b89-9343-6b3b71c196eb
+INFO:parallel_requests_benchmark.test_synchronous_httpx:517281fb-3a1b-455b-b1b8-3c1e33101864
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:08fd7560-49b1-4fe3-8779-6f64101b56fc
+INFO:parallel_requests_benchmark.test_synchronous_httpx:a129be98-2efd-4559-9d68-3efc989924a8
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:308c056f-dc31-4e37-ab7a-eceb2f3d98fe
+INFO:parallel_requests_benchmark.test_synchronous_httpx:ec57c6fe-53ad-42d3-b271-2fcb37935abd
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:8a96b907-1d8f-42db-b107-cae4f803c3d8
+INFO:parallel_requests_benchmark.test_synchronous_httpx:3891fd80-8cc5-4603-ab55-dbbcb43d248d
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:f9847869-d808-488b-948f-1ff1e103e97a
+INFO:parallel_requests_benchmark.test_synchronous_httpx:a8488aa8-82be-4baa-91e1-6134b05f0d8a
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:b6121faa-0226-42d0-9704-06087f3143fb
+INFO:parallel_requests_benchmark.test_synchronous_httpx:34ab9713-0e02-4bfa-885b-81188f16d030
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:831c2618-0a6a-45f2-99a6-3817089f28d8
+INFO:parallel_requests_benchmark.test_synchronous_httpx:09192d46-80ae-4f5d-b350-f0ff9c775d7f
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:a9485f11-b060-449a-926b-5acf9aa4bf81
+INFO:parallel_requests_benchmark.test_synchronous_httpx:8abc4cbf-9c1e-4d56-961d-6ea0a5990b04
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:1948f9d7-61ee-4664-b84f-c26b29804867
+INFO:parallel_requests_benchmark.test_synchronous_httpx:be7b113a-4dcd-499d-96fb-200e702453fe
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:3f094c0e-e926-4517-9116-0f24f26f2786
+INFO:parallel_requests_benchmark.test_synchronous_httpx:1e2508b1-1c38-4ddf-bc2d-08f679c90fbe
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:2af15fa7-20a4-4141-a7c2-58ee8918de6c
+INFO:parallel_requests_benchmark.test_synchronous_httpx:59f08a77-2969-4efe-96af-df87cc05f883
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:1572190a-40e4-40d6-a125-64448cdd6924
+INFO:parallel_requests_benchmark.test_synchronous_httpx:2b5c127c-bb1c-47ac-b88a-76b99d9360d1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:a6c3eb8b-54b2-46ea-ac12-2e9dbbefbfcb
+INFO:parallel_requests_benchmark.test_synchronous_httpx:a8c69c85-cfe9-4fc8-baea-d88941a77b6c
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:1e74da3b-0693-4c9e-9dd5-cc68801dbc0d
+INFO:parallel_requests_benchmark.test_synchronous_httpx:5d8ef11f-36c3-4544-8014-14a28092458f
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:1eb814c6-3c27-479a-899e-88907d0fde1f
+INFO:parallel_requests_benchmark.test_synchronous_httpx:1fb789f9-1c29-4c6f-bd4e-81f8d2f208b0
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:bf4cf825-1bc1-47dd-8fec-d348aa4b264b
+INFO:parallel_requests_benchmark.test_synchronous_httpx:1856ba37-187d-4c93-9bca-6ac68bb5ad91
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:9f1002e5-9bb2-434f-ac21-d5a0fe6b4560
+INFO:parallel_requests_benchmark.test_synchronous_httpx:ac15f7b4-46dc-48ff-a68f-d111574e4f7e
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:f78e19ab-ea65-4694-ab84-d544e68b5abd
+INFO:parallel_requests_benchmark.test_synchronous_httpx:8363039d-f6c2-4c25-ac05-1c56ced90db8
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:68e7c44a-c357-4c44-9ccb-0c2ca1fb0caf
+INFO:parallel_requests_benchmark.test_synchronous_httpx:83c01251-2ffa-462f-b5ea-0779d120d56b
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:48c70f48-23b8-4897-9b16-8d99324b9ae1
+INFO:parallel_requests_benchmark.test_synchronous_httpx:9617f0a1-8f4a-4ce9-8be5-eba3f6264bf5
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:de3f4e80-eb57-49e6-a4fb-0756c875335c
+INFO:parallel_requests_benchmark.test_synchronous_httpx:186ee567-6db1-4b3c-a71b-efe5229bd256
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:ee7960e1-2574-4e0f-8aae-146c8569676b
+INFO:parallel_requests_benchmark.test_synchronous_httpx:674f8cd7-5a08-41f8-b5ce-a468b7a8cd92
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:6b5f0a34-5b8f-4a16-af49-0ad087b5e3c4
+INFO:parallel_requests_benchmark.test_synchronous_httpx:89b0d03d-7e25-4bb2-9817-7cde756a81e9
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:07669415-286d-47b2-8969-bdd36ce34214
+INFO:parallel_requests_benchmark.test_synchronous_httpx:9b4e20a7-908d-4f49-a19e-37d226440063
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:74aa56da-3e65-49cf-9ce9-cfa817a4edd3
+INFO:parallel_requests_benchmark.test_synchronous_httpx:b64aea45-3498-4a11-8a68-c03cf2fb59e0
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:47c7057d-6381-49cf-945d-b8fe46b27b74
+INFO:parallel_requests_benchmark.test_synchronous_httpx:6e4a82fb-2f93-460c-ab7a-0639f89b2a20
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:e6401381-63d3-4126-8421-2455ad819702
+INFO:parallel_requests_benchmark.test_synchronous_httpx:817604d0-f3bb-43dc-9458-7976d93c79bc
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:109ed176-11cb-4fbb-a5e3-154b2ee4e31c
+INFO:parallel_requests_benchmark.test_synchronous_httpx:be3243c5-86f2-4ace-bcad-c768f293ae26
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:206ffb0c-2f29-4cb4-9bb8-f4109a2c7f75
+INFO:parallel_requests_benchmark.test_synchronous_httpx:1c71eed8-670e-4874-83da-2d4d2fc899aa
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:f74f0f41-d3b9-401e-bb75-4a2bc12e5412
+INFO:parallel_requests_benchmark.test_synchronous_httpx:596e1ecf-43e6-4863-8096-f15ff3d5ec8b
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:d12eb3be-bf79-4eee-9e01-0d7f4247dcd6
+INFO:parallel_requests_benchmark.test_synchronous_httpx:590eccdd-8119-435e-9ac9-448c23cf29cc
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:8adbb7a1-d3a0-4f03-901b-1d78d3970a8a
+INFO:parallel_requests_benchmark.test_synchronous_httpx:61a77a79-ba4a-4744-8440-b838e82a7397
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:6972e347-f8d6-4d37-ad77-d51ea48267ec
+INFO:parallel_requests_benchmark.test_synchronous_httpx:23c6651e-fe78-4ad8-8cf5-c0320b2399d7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:7297c457-0445-40b3-9b93-649fba545ce7
+INFO:parallel_requests_benchmark.test_synchronous_httpx:306ab755-81b4-4692-8b98-2c8fac473413
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:62717ad0-c8b0-439b-9cde-7bf870994016
+INFO:parallel_requests_benchmark.test_synchronous_httpx:34dbda58-f1dd-4a20-8b57-b7f8b1125620
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:9b3b4ff4-72f8-4ac2-88b7-b7e9001ac3a1
+INFO:parallel_requests_benchmark.test_synchronous_httpx:f63edee1-0c77-4ec8-b3ba-1717f9259a94
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:a6f1081d-2b4b-4b3d-b0b5-4d0a9dd7bc90
+INFO:parallel_requests_benchmark.test_synchronous_httpx:f655f8f5-2ed7-4e67-988c-0d8c8898ee2b
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:711141b9-bd67-4bd3-bc37-77ba88a537c6
+INFO:parallel_requests_benchmark.test_synchronous_httpx:131bc022-19eb-4a48-8340-63490d0a39df
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:22b10dbc-8504-4180-9445-1fe4e361702a
+INFO:parallel_requests_benchmark.test_synchronous_httpx:d9107e2e-e56a-4629-82e0-05c496a3c8f7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_synchronous_httpx:3a3875fc-db9a-4df8-812a-9b7001f71531
+INFO:parallel_requests_benchmark.test_synchronous_httpx:74f5bdb4-acf6-477c-a924-c1abf1136f7d
 INFO:parallel_requests_benchmark:
 
 This is a new execution of the program.
 
 
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:3ce3b1ce-8be5-4b1f-936f-8bcd3bf5e738
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:67946ec9-27cf-453f-a8ee-d8efa3323939
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:459a6a4b-b0e7-4b53-918f-b25380e76b51
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:9fbccdc6-4599-4ad2-bcaf-8fbfaa548b6a
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:2403f174-da84-4b17-814a-67ac26fd2db7
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:c4a0c999-4b29-4d3a-8373-da5a79864563
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:f25491af-3b08-48e2-9b05-f005b13c9d77
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:2b84e209-fe1a-48c4-b549-5baedb488938
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:913e0775-9a1a-4c00-8282-b630ad73424f
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:ab816ee3-c8ab-4037-817e-f61148128761
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:08ee5d67-4331-4ec4-99c6-08f8571e0693
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:3d0369cd-a663-4e3a-987b-eab0d991b058
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:d1b50ded-f742-41f3-84ef-877430ea39aa
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:32e66dfc-eeec-4c37-91b7-1c6d4453012e
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:f3780a9b-b313-4806-9c63-7049d0fb2003
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:ca5b8230-9d04-4967-8603-8342c8d2307d
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:3cf678bf-3c20-41af-86e6-4ca0bc18dd39
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:04ad17bb-5f90-4ee9-8cdc-6a855dbf87ed
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:f2da0d4c-724e-4ae7-8510-778315e31a30
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:731960b6-ab97-46d6-857b-d340bc61c525
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:0794053b-9d19-4a17-8722-5ca40c7f14de
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:19f911d4-97d2-4a32-aca2-4d8caaee464e
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:d7eebc8f-3b31-453e-aad5-d2067a4c0236
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:184c0151-979c-4e51-a6e4-ef3594c6941a
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:952f244a-fcc6-4cc7-94de-e3278dda5a0b
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:b0f501b7-7e30-4a67-8664-7a4269babc84
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:95330fd6-e9c5-4167-9a54-71af64449ff6
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:d2e84b68-1a8a-41ac-be7d-aabc6dbb7ee4
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:0de2b7fb-13cd-45d9-ba38-d7cfbd351259
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:01c7dd1c-bfde-4fc5-808f-7e3bd29922d2
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:d856fc4b-08c7-47fd-b245-26157f244807
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:fe57e8ed-520f-4bff-b7c0-de12b3f197d6
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:9f602e83-8024-4a1f-95fa-44079041fa0c
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:891944ee-9f8d-4117-a9d8-d1ebaaf04334
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:0b2e0b1c-eeb0-4385-b87a-707d87be4e87
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:08cf8054-cb18-4e30-b7ce-80b2b47ed67b
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:aec22d83-1531-4465-b7b3-c1432e2f3425
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:0ff336d3-1297-469f-886e-33f2e0810af1
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:637314fd-ebc4-4a64-b5a6-d9d918dd2b49
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:83c13999-f6b8-4605-a737-11b2d472e466
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:364ea690-d475-428d-971b-ffaa933acb9d
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:2a621de5-4f39-4099-ad59-461472b434cf
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:e0deca0c-6ecc-4705-b144-e43a71ec45c6
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:091102e1-679d-449d-9ba2-f37cde6472e4
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:9e4d3d3b-d49a-42b9-8b5e-cfb73d8e8bf3
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:37258d61-30f4-4266-b62d-a236e7ae741a
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:acde2461-f5cd-4fcd-9d3d-94faea5d0605
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:640dcf44-d7c3-49ee-89b9-9863a86abb73
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:fa04754c-4469-4832-b920-32617d4c6bab
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:51e6c4f0-a1bd-4223-928b-6ba49e9b8312
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:60488d3b-c8f6-463b-8b97-2e8e0e5fd782
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:9e249fe1-282a-4a28-b699-d18c50ffaeab
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:a6c1ca8a-24d8-46d2-ab59-42415a036168
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:af5e059b-45b9-446b-802f-bf382148bac1
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:9b69e604-1028-4238-bb7e-aee2b2cc2710
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:f28be341-039e-4a4f-8505-5222791a40fb
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:46c3ead7-3393-4e7f-8d1c-e3ea7cfd2c0a
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:ce00704a-8521-43aa-b1ba-ecd62b82144a
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:338050bc-3f69-4ea7-9d20-25115e1c1e9f
-INFO:parallel_requests_benchmark.test_multiprocessing_requests:6721e4d2-8095-43ce-9c28-49d712ebec98
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:a80bbbb6-d327-4be3-981f-5bab961e9da7
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:8e4f216b-f4a4-4954-8ddd-0d4008227423
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:8da1b926-d57e-4737-9180-fcb3ccc9525d
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:eb0712eb-6320-4f88-a3ff-4ef45dedb255
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:0621b5ab-2fde-4b6e-a1c4-62acadb5a4d6
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:bb239a31-ea85-4b37-9383-04a957896f93
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:d176444c-a2f5-47ef-9ef5-d1be8d4a148a
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:4fa280d9-ab44-4c8f-a3e3-290a71af3947
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:bf9eaf33-9d0e-473c-b8f0-cb1f6b97194b
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:576398fc-326a-40c4-ae8a-25abc2632ad7
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:df8bc03e-a130-45b8-9dba-ace8623cc3a7
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:93dfa9f1-e9a2-4cf6-aaff-5d89a784effd
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:19ab327f-6f93-4d0b-b229-d88fdf285193
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:e63b58c0-d5ac-437a-a930-399263de40f1
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:27196140-08ba-4bc2-b323-a9f6a75cf42a
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:444b28ad-527f-40fe-9083-7b4183d81185
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:65ead2e5-e428-4db2-b45f-3edc524d6f21
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:9aa05438-1c43-47ee-85a6-767841acd315
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:37e2f727-b752-420b-9f06-c7a3d8a1c67d
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:1ebff49d-9d86-4c1d-aa77-2ccb2e91bd9f
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:86e2f444-3a13-4de9-8722-a8ac63c44a94
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:1479217b-7dec-4dbd-968e-fead5e3990e9
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:8c3c0408-bc2e-491f-a71e-bac8e338c84c
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:9601fccf-7330-4984-a340-94f18a3169e4
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:38f9e1f1-6c07-45c0-ac90-bc4c63370218
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:83f0c541-77e7-42c0-92fe-b078305eb9e3
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:76148e23-5b40-4620-b32a-fab58474bf45
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:9fc90275-3eea-4cc1-9526-b93fcba5c8f6
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:31772af3-077c-4aa6-a38d-ccc1938412ea
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:842bf5d1-7505-4ccc-8734-dfaa1d1aeefc
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:a125e8f2-e658-4944-bbe3-0d13ded67c5c
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:2c19c983-a1a1-466a-9772-44f763ea89b8
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:3c80dd29-b14f-470b-b3bc-50e3cd98b7da
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:dc22611f-95b1-46f0-b7b3-a5994ef369f6
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:454ad528-2329-4b9e-98cf-d9915bd986b2
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:6428796a-127a-45ff-ba2a-a594d564828a
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:1057f3c6-86e5-4bf4-a873-95c9013b914e
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:2f4dbf32-a133-4dc7-8916-6f34137f4940
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:c1683cfd-4b1f-4f12-9739-7c0fe8554fae
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:014e955a-741e-427a-912e-158820186f17
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:67c658c6-3afe-40c3-929f-9cbc1fdd849d
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:d1dd3ade-9128-4b2b-9ed9-1284c12918b0
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:c48a9aad-c9d5-43b7-b66b-3ed8cc1aa74a
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:60008149-5a90-4ab8-b17d-1bae0909aade
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:037bbb7a-875d-462f-8f82-00cc5bd9d0dc
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:bbb63e5b-f4fc-4af9-9c84-003139502bc4
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:8bac9100-13a5-4e14-9579-46598d59537f
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:59d8728e-9c91-4c34-a413-301cfe34b3cc
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:9b645e50-d9e8-4b79-9d64-be78b08c1638
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:24588cbb-e519-4264-835f-e35e9d6a1892
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:116d44b6-436e-4ead-9c67-7e7b50a0cbd1
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:5b65ec48-da40-48ff-a8ac-30ca0c279155
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:57a18fea-b353-4e6d-aa43-0f57af2112cf
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:bd60cd8c-ce60-4b79-813f-27f1932f0dfe
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:8de3cd72-bc29-4c5f-9230-e35ff6bc3708
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:1ceaa40d-5191-4070-a3f8-a8c457e3344d
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:a529caaa-d900-4e90-8350-bb59ccdb95c2
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:f7af3951-3a80-4f07-a9ce-b9a954480436
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:4920c4a8-6959-4be8-a6a1-be56c06d59e2
+INFO:parallel_requests_benchmark.test_multiprocessing_requests:12a107fc-547c-4313-9ff6-d5163a5dec8b
 INFO:parallel_requests_benchmark:
 
 This is a new execution of the program.
 
 
-INFO:parallel_requests_benchmark.test_multithreading_requests:d87e1381-4a0e-47f9-ab18-2e26373445d1
+INFO:parallel_requests_benchmark.test_multithreading_requests:e23864fb-7c64-489a-8131-756c02f94374
+INFO:parallel_requests_benchmark.test_multithreading_requests:aff2afdd-9f69-4af7-bcd5-f0608e2419f9
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 6
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 5
+INFO:parallel_requests_benchmark.test_multithreading_requests:d687d9b7-72a9-40c8-970e-78fd724a516d
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 2
-INFO:parallel_requests_benchmark.test_multithreading_requests:18829ddc-42e8-4beb-bae5-1386e18b816c
+INFO:parallel_requests_benchmark.test_multithreading_requests:88e219f4-f16e-445d-b761-0cff0fe1beaa
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 8
+INFO:parallel_requests_benchmark.test_multithreading_requests:c86c3b18-bf85-41f0-9178-e98297f2c0e1
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_requests:42b30138-bacf-4369-a892-b6c2b9693508
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 7
-INFO:parallel_requests_benchmark.test_multithreading_requests:66e93126-c9eb-495a-9beb-7c8d03e674ac
+INFO:parallel_requests_benchmark.test_multithreading_requests:3c279e23-3d48-49df-948c-bfe83d69359a
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 9
+INFO:parallel_requests_benchmark.test_multithreading_requests:f892884a-d179-4e53-b4bd-5b2357b4dec1
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 4
+INFO:parallel_requests_benchmark.test_multithreading_requests:b4a8a135-6490-4581-a5f2-5e344da39a42
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 10
+INFO:parallel_requests_benchmark.test_multithreading_requests:e9b08c58-4967-4566-b856-f8ad14a7026c
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 12
+INFO:parallel_requests_benchmark.test_multithreading_requests:fe2ad200-2b51-4072-82b4-48abb8544d13
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 13
+INFO:parallel_requests_benchmark.test_multithreading_requests:23a323c2-6a4e-4b73-b2b6-e56aa25c1a62
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 14
+INFO:parallel_requests_benchmark.test_multithreading_requests:63e3064d-58d8-4b57-9a11-717779d1b32a
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 15
+INFO:parallel_requests_benchmark.test_multithreading_requests:6b97225a-3c94-48fd-a00e-2d0cf10f24a6
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 17
+INFO:parallel_requests_benchmark.test_multithreading_requests:25205d02-1c35-4762-bd61-312ccbd025aa
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 16
+INFO:parallel_requests_benchmark.test_multithreading_requests:7c6c15ff-31e1-481d-9590-833a0d8c8e0e
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 3
+INFO:parallel_requests_benchmark.test_multithreading_requests:9bde8b88-f4df-4a23-8ece-016f34957bd0
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 19
+INFO:parallel_requests_benchmark.test_multithreading_requests:bd98cefe-ac98-4690-91b2-5e0f479a06cf
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_requests:21869d17-071c-4953-9183-5304b1088010
-INFO:parallel_requests_benchmark.test_multithreading_requests:3e4c99ed-ff54-4559-a6c3-e58feb55cc12
-INFO:parallel_requests_benchmark.test_multithreading_requests:2433f748-687e-44b0-9ebe-ba77015e8baa
+INFO:parallel_requests_benchmark.test_multithreading_requests:caeea684-9de2-4154-865d-72affa766265
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 18
+INFO:parallel_requests_benchmark.test_multithreading_requests:08f7b450-5e7c-4359-ae84-f0d6236a3483
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 11
+INFO:parallel_requests_benchmark.test_multithreading_requests:84802ea1-a37b-4432-8150-15f232723ef2
+INFO:parallel_requests_benchmark.test_multithreading_requests:d8738fa6-1f27-47f3-9520-39d2add94b50
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 9
+INFO:parallel_requests_benchmark.test_multithreading_requests:54bea527-34b0-472b-925c-e2935a2da6fc
+INFO:parallel_requests_benchmark.test_multithreading_requests:7c1e22e1-6a92-4fcf-8894-fb3ab020d013
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 3
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 8
+INFO:parallel_requests_benchmark.test_multithreading_requests:c4c39962-c0d2-4217-b21f-e29ca6fa7fef
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 2
+INFO:parallel_requests_benchmark.test_multithreading_requests:c1251d45-f571-4ce9-b3f5-36b8219d3185
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 4
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_requests:bc1eec5f-b3b9-4cc2-9465-3e8089c5a94d
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 7
+INFO:parallel_requests_benchmark.test_multithreading_requests:649c92e7-4e2b-49dc-9fcd-36194c3a510b
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 6
+INFO:parallel_requests_benchmark.test_multithreading_requests:280b3c77-b8fa-4ebd-b582-304eecb1972f
+INFO:parallel_requests_benchmark.test_multithreading_requests:d933ea7a-aeb7-4aaf-be64-02facc3562c9
+INFO:parallel_requests_benchmark.test_multithreading_requests:95675da4-edc4-4f5a-baa2-e2ab13e1d2c6
+INFO:parallel_requests_benchmark.test_multithreading_requests:b2fa8137-f2ab-43fa-a10b-19b46be0b990
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 11
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 10
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 12
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 13
+INFO:parallel_requests_benchmark.test_multithreading_requests:80bfd609-fcba-45ec-87a4-390f1a271a26
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 14
+INFO:parallel_requests_benchmark.test_multithreading_requests:fe572ce4-e583-48ca-bef8-12e4bb7b04ed
+INFO:parallel_requests_benchmark.test_multithreading_requests:060ab73d-8e28-4ac6-bcf4-fe187ce34255
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 15
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 16
+INFO:parallel_requests_benchmark.test_multithreading_requests:66c2bae5-46b6-47d0-9f8a-041622f00481
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 17
+INFO:parallel_requests_benchmark.test_multithreading_requests:16937127-ad06-4402-814a-b6d17db870a4
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_requests:68c964c0-d89a-48ef-8389-827697dcb698
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 18
+INFO:parallel_requests_benchmark.test_multithreading_requests:8db25cff-ee80-4845-91d5-55c6427632c5
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 19
+INFO:parallel_requests_benchmark.test_multithreading_requests:7ebb9e36-54e9-476d-8477-1a6750be8384
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 5
+INFO:parallel_requests_benchmark.test_multithreading_requests:798b4400-7242-42fa-b4df-459499fa51e2
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 9
+INFO:parallel_requests_benchmark.test_multithreading_requests:bfb89790-7287-4817-99ed-ac609262d4b6
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 8
+INFO:parallel_requests_benchmark.test_multithreading_requests:5695ec81-0d82-40d0-85f7-589efefc2113
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_requests:17515da7-d582-4e05-9563-9ba5bbe21d95
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_requests:645c2ec1-d61c-4ebb-942a-c71cde33eb13
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 2
+INFO:parallel_requests_benchmark.test_multithreading_requests:e2c2bc4b-11f7-4675-af78-aff429a941e6
+INFO:parallel_requests_benchmark.test_multithreading_requests:06551450-91b3-45b8-8953-9c68d4920b77
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 7
+INFO:parallel_requests_benchmark.test_multithreading_requests:31884d12-e459-4103-b342-b42099e34118
+INFO:parallel_requests_benchmark.test_multithreading_requests:fd5c09f9-b946-4cfe-8fff-f7c3046206e5
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 3
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 4
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 5
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 6
-INFO:parallel_requests_benchmark.test_multithreading_requests:886ae19c-06e0-40bb-abd5-92ac4cdcfe69
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 10
-INFO:parallel_requests_benchmark.test_multithreading_requests:93c3c9a8-ebae-460e-87b4-c0f8c1966dbb
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 11
-INFO:parallel_requests_benchmark.test_multithreading_requests:1931fd97-e62e-4289-9f0a-0e78c6eeaec7
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 12
-INFO:parallel_requests_benchmark.test_multithreading_requests:215def42-bd3c-4b38-b987-dcbda3d94915
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 14
-INFO:parallel_requests_benchmark.test_multithreading_requests:a0567062-15c3-46e8-882b-dc8bb09e8e05
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 15
-INFO:parallel_requests_benchmark.test_multithreading_requests:c92273a0-884e-4432-9524-7c41a2056938
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 1
-INFO:parallel_requests_benchmark.test_multithreading_requests:99841298-1c81-4db0-a584-9b4eeae63133
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 9
-INFO:parallel_requests_benchmark.test_multithreading_requests:6e6f85c3-dddf-4498-b6fc-119739dabfa4
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 16
-INFO:parallel_requests_benchmark.test_multithreading_requests:5f73ce4e-017a-43e8-9b68-dadbda41732b
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 19
-INFO:parallel_requests_benchmark.test_multithreading_requests:28d84280-580e-4dc7-bb61-877ae068dd2c
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 17
-INFO:parallel_requests_benchmark.test_multithreading_requests:6534778f-ccad-4131-aa14-40ed10603b35
-INFO:parallel_requests_benchmark.test_multithreading_requests:7cd94e7b-caa1-4d41-b96d-b65c5dd320dc
-INFO:parallel_requests_benchmark.test_multithreading_requests:74b638f7-87d1-4a37-b0bc-f0214c1b5cdf
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 3
-INFO:parallel_requests_benchmark.test_multithreading_requests:af18fff5-bdd2-4f52-8878-a161fa7b328f
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 18
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 8
+INFO:parallel_requests_benchmark.test_multithreading_requests:158baba9-0679-4c38-b1cd-d90c43b640b3
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 13
-INFO:parallel_requests_benchmark.test_multithreading_requests:5395e4a2-aa34-46ec-a7cb-8dad0d72ad7c
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 3
-INFO:parallel_requests_benchmark.test_multithreading_requests:344df954-36a1-4453-aefd-e0023ea5dc55
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 2
-INFO:parallel_requests_benchmark.test_multithreading_requests:f871acd8-4875-4adc-96ce-14a827b00f7a
-INFO:parallel_requests_benchmark.test_multithreading_requests:6b1ff11d-cc00-4a68-a2d3-6ef8367c727a
-INFO:parallel_requests_benchmark.test_multithreading_requests:34c091b9-e266-4c90-bde2-fbf26281d1f1
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 9
-INFO:parallel_requests_benchmark.test_multithreading_requests:8948eb1e-e9a9-47b3-8cf6-58ebd4c6464f
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 8
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 7
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 1
-INFO:parallel_requests_benchmark.test_multithreading_requests:8434a126-e12c-42e2-9edf-40aabc19a2d5
-INFO:parallel_requests_benchmark.test_multithreading_requests:33229b4b-803f-4432-9248-6b88fe07c0d9
-INFO:parallel_requests_benchmark.test_multithreading_requests:e799f342-a2b0-4775-91ef-7970219d2eeb
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 4
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 5
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 6
-INFO:parallel_requests_benchmark.test_multithreading_requests:007b8974-5e30-4060-a92f-3663447df3c1
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_requests:727af9f5-0e8c-476b-9e72-8ac8d1ec9b48
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 10
-INFO:parallel_requests_benchmark.test_multithreading_requests:bd3f1b06-5bfa-4847-8b29-05f12e35f93a
-INFO:parallel_requests_benchmark.test_multithreading_requests:90ad5e6a-0d0d-47b3-b375-a4924b7c7463
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 15
+INFO:parallel_requests_benchmark.test_multithreading_requests:84e54844-ec80-410d-a42f-d120cf1314b2
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 14
-INFO:parallel_requests_benchmark.test_multithreading_requests:b97c66af-1ce8-4e06-a7d8-b663b7c61c76
+INFO:parallel_requests_benchmark.test_multithreading_requests:92120227-8e17-4abd-a096-bba6e88b5ba8
+INFO:parallel_requests_benchmark.test_multithreading_requests:f36be800-c684-4637-bef4-1a6339d9c3a1
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 18
-INFO:parallel_requests_benchmark.test_multithreading_requests:2a020116-e15d-4fd6-8aef-b80c065006cc
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 16
-INFO:parallel_requests_benchmark.test_multithreading_requests:a15741cc-5f29-4c15-b4aa-0a68fcf70890
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 12
-INFO:parallel_requests_benchmark.test_multithreading_requests:07844d61-b980-4985-a46f-6255891aea76
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 19
-INFO:parallel_requests_benchmark.test_multithreading_requests:dc4404a4-86f6-453e-a30c-bb5005569f4d
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 17
-INFO:parallel_requests_benchmark.test_multithreading_requests:193557a7-7f70-4b91-90f9-be69428e2968
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 13
-INFO:parallel_requests_benchmark.test_multithreading_requests:87dbafe4-61fc-4cfb-af1b-0244ff3c01d4
+INFO:parallel_requests_benchmark.test_multithreading_requests:dfcb1572-6287-4c68-a20a-5f16189dc144
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 16
+INFO:parallel_requests_benchmark.test_multithreading_requests:87d9c0be-e22b-462c-af64-33de32a0fc12
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 11
-INFO:parallel_requests_benchmark.test_multithreading_requests:9bb54b8e-978d-4beb-ae85-f690fb6406ff
-INFO:parallel_requests_benchmark.test_multithreading_requests:75120dc1-bb58-43a3-9f66-d6e3d42a5962
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 2
-INFO:parallel_requests_benchmark.test_multithreading_requests:97d340f9-2ca7-4e3e-a08c-801807fa3135
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 4
-INFO:parallel_requests_benchmark.test_multithreading_requests:739ab148-7fc8-48e1-b08c-a455d56b01c5
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 8
-INFO:parallel_requests_benchmark.test_multithreading_requests:780a0b82-775e-41b2-8da9-081edaf0887e
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 1
-INFO:parallel_requests_benchmark.test_multithreading_requests:5e4ce706-08a7-404d-be8d-3ce011545d75
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 9
-INFO:parallel_requests_benchmark.test_multithreading_requests:c6fc7827-a6d5-4026-8de5-09e5584b09ac
+INFO:parallel_requests_benchmark.test_multithreading_requests:cec53505-39b6-499a-8237-827784945105
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 19
+INFO:parallel_requests_benchmark.test_multithreading_requests:1458859e-f40c-41ef-a037-10951a810fa2
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 12
+INFO:parallel_requests_benchmark.test_multithreading_requests:9340b327-0853-42ca-ab2e-6e4b0b24e928
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 6
-INFO:parallel_requests_benchmark.test_multithreading_requests:03db1187-ed35-464e-98ab-1989869a75d8
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 7
-INFO:parallel_requests_benchmark.test_multithreading_requests:3b9d1dc4-915a-454c-95f3-a0c3571ca025
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 5
-INFO:parallel_requests_benchmark.test_multithreading_requests:669bf6e0-ed51-455b-aa0b-3c4777b9d3f9
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 11
-INFO:parallel_requests_benchmark.test_multithreading_requests:4e0bbb19-b61d-49a1-8bc2-192a4b10a001
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 12
-INFO:parallel_requests_benchmark.test_multithreading_requests:ad67732f-732e-4f53-ad78-553f90980752
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 13
-INFO:parallel_requests_benchmark.test_multithreading_requests:d2907286-998c-4a37-9403-ea8480cfb8fd
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 14
-INFO:parallel_requests_benchmark.test_multithreading_requests:60763baf-542b-466e-8c76-b4353da7ae20
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 16
-INFO:parallel_requests_benchmark.test_multithreading_requests:7c1f8e9d-ee67-4b44-938f-e088105fb7a0
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 17
-INFO:parallel_requests_benchmark.test_multithreading_requests:5d69598b-c060-4174-9666-ab0fbfbd8a6d
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 18
-INFO:parallel_requests_benchmark.test_multithreading_requests:86a13170-e3ed-484f-bd07-1f57e873c8b2
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 15
-INFO:parallel_requests_benchmark.test_multithreading_requests:07eb7491-a450-4b68-a501-9d035e91532d
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 3
-INFO:parallel_requests_benchmark.test_multithreading_requests:c6f7728e-3dfe-4167-a6a1-25e3994d5b05
-INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 19
-INFO:parallel_requests_benchmark.test_multithreading_requests:def40bf2-a568-4e45-b52a-56e305295279
+INFO:parallel_requests_benchmark.test_multithreading_requests:376d0d0c-2a15-4f49-bd78-5c5bd3e020b3
 INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 10
+INFO:parallel_requests_benchmark.test_multithreading_requests:699d2e12-16f3-444b-bb18-af6a536e1422
+INFO:parallel_requests_benchmark.test_multithreading_requests:Request completed successfully: 15
 INFO:parallel_requests_benchmark:
 
 This is a new execution of the program.
@@ -391,9 +391,9 @@ ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Er
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in event loop: This event loop is already running
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in event loop: This event loop is already running
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:fc40bd77-63a9-4e7a-8086-020203fb175f
+INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:e46780d9-300a-4d27-bdb6-cc784d99fa74
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:b6d8b64d-1faf-4358-957c-133ea6496fc0
+INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:e64107d2-2504-498d-bbfc-8b4d081fd695
 INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Request completed successfully: 1
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in thread execution: Cannot close a running event loop
@@ -411,9 +411,9 @@ ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Er
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in event loop: This event loop is already running
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in event loop: This event loop is already running
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:77980cac-2877-42b0-85e1-9912ef9fd04f
+INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:e607f565-3530-416c-b6ee-275025dcd545
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:25f35acc-f000-423a-8f87-5d27da5a8415
+INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:afcb2464-4a51-4156-8bd9-db3a64c78a4b
 INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Request completed successfully: 1
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in thread execution: Cannot close a running event loop
@@ -431,9 +431,9 @@ ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Er
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in event loop: This event loop is already running
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in event loop: This event loop is already running
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:149e3aec-3450-4791-a1a7-0293c955cf52
+INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:9c2a0801-297e-4d28-a129-11143dadebda
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:cc6a2743-2327-4e43-bfaf-2fb9efb0ba63
+INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:086c411a-f635-4ec4-b943-adc20f1d335f
 INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Request completed successfully: 1
 ERROR:parallel_requests_benchmark.test_multithreading_httpx_single_event_loop:Error in thread execution: Cannot close a running event loop
@@ -449,147 +449,147 @@ This is a new execution of the program.
 
 
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:231f149e-08a2-43bd-8082-f44c2f52f967
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:8f037ba3-9a33-4290-868d-502ad4ae4f2e
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:ca2229a7-22b7-4cd1-8163-e95e9ff60dd5
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:780effea-52da-4d0a-ae7f-3a36b4b138f5
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:6cfe755f-d791-42a1-8408-7f402bd73b57
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:3b021457-7246-4c6c-889a-7fd27c2a80d8
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:c78b3d87-0f91-4b31-834f-bfb607213db0
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:436a4118-7064-49ef-aea7-eefa031fea2f
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:9b52ad4e-0964-4eeb-b8b8-bc425277391d
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:094b0cc8-61b9-40fa-9eb8-35d84cbb84e0
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:17bc1e3e-45a4-4554-8655-3e7ab455740b
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:751b3f79-8a49-4b73-a304-f1a4a5a25f37
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:b34ddc06-a82f-430e-912a-a898cb189073
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:408f7bab-65db-4e95-b28a-abed013eeac1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:a131728d-5403-4974-932f-8bc8df0f8bb2
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:893e241d-69e8-48fb-b395-e7e8e254d6c1
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:3f1ad096-6b18-4d7e-8f99-0adb7042a71a
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:f922efc0-1cb9-4103-9ca6-58f8e7637396
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:2f476b47-c604-480e-a492-dd014b676d30
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:2f17397b-1382-4b1e-9bc5-addbe2efee51
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:ecffdaad-761c-4eef-9749-053711bc6775
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:71701967-efda-44bc-9b6b-218ddbddd7d6
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:14998006-e155-4bc7-b574-3fbe52152416
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:04317d55-4018-4cf7-a02e-60860c393a95
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:7823a364-96de-427a-a8d2-733f1fdfb67d
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:ad62f117-7e3e-4f22-84c6-3520a41d4b67
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:c75c449b-bc96-4081-b40d-becfac93725e
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:61dfbbc5-12a6-41ac-985c-5c2b4f12c18c
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:85c9a61e-e641-44ff-b1b4-a0755a535c6c
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:d502a278-255a-420a-9a57-e1bbe176ac5b
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:cb0c56bd-fa40-473f-bba7-96ad61e9ad19
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:f8bbd025-6101-4221-9e82-1a267f347095
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:05036665-ff15-47c7-b75a-093b17819908
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:0d0dc883-8a39-4e8b-9f87-86f09864df4c
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:6f6387d6-3105-447c-a2f8-8b8bd2499db7
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:2b493da6-9b5f-4f4e-a6f6-18132b54a94e
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:152a7e15-12df-4007-9126-a9dab7d85dfb
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:f0b74d30-063f-48ee-b08f-b23ecfe30f81
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:a3ddb39d-fb59-4922-b199-91d6424e56af
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:77044842-aeda-4dab-8320-4df99cd03f2b
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:3fe31b96-d35e-4298-a044-969f98fa5f08
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:22a17d4f-037d-43ae-a6dd-d76b00103b3f
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:c8714bb5-0f92-4974-af5a-3e25ed044ae3
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:1899f4b5-c885-434d-af18-ef36de3e9f09
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:22cf4b88-492a-4735-b7d1-d7bad2f555ea
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:e13e36e2-8f74-45a3-a9ae-86ad5b195223
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:040a7f37-f394-42f1-9306-48a580a01641
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:5e716d4f-07a2-497e-9b8b-765c075cf6f3
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:c00016ca-27cf-45ad-9521-70176a607194
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:5a98e324-16a4-48ed-b16e-b24315bea8aa
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:14d5a09a-f7cb-446d-9762-8f7991ad4d52
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:f864edb3-5733-4fbf-825e-e9dfb6ab3c92
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:ed5c0196-7f41-40b5-a9ba-c0c76261d103
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:d8187c6c-1a26-4fde-aee0-486694d98396
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:4fb1a123-25db-4b34-9dcb-10aaeadb63aa
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:442facfc-1a54-4c81-8ee0-662952b5d487
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:57651951-9768-40e5-a174-3f16b0754c92
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:f5eced0c-973b-4bb5-bab8-4c32ef204085
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:210d9afd-5383-49fd-8e8b-affe5c32763a
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:1c229d09-6bb5-4383-8b20-a58204bbb49d
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:8c983ce9-0b26-44c8-aa0f-2ef09bbf7a3c
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:cd3775e1-0c4a-4926-93c4-e661f90fe096
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:80899002-b250-4864-be60-2a46b3c9bc67
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:3072acb9-931b-441f-b637-f0cd40ee1780
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:7588efdb-ab87-499a-9fb7-f8a4795bff35
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:55b83557-f924-4d2f-9971-71e7a9828fc7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:2da6237f-5bf8-41db-a60d-55c5824da804
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:9e0ed948-c7e1-4b82-929b-36c234269160
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:4c6c5753-651b-4364-9ba5-57aa076be732
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:9635d7fa-3fef-4383-b999-38707ca7382b
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:dae8f408-4d91-4b2e-b684-e9aad6777554
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:4e7cd439-c625-4885-bf60-7b8aab848daf
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:1663f6ac-05d5-4fbf-ad2f-c53b2ef3a851
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:3b9e0e5d-a099-4f34-83d6-86d0c292fdec
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:a868d7d8-89bc-45eb-b2ae-432c74a25dbc
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:689571bb-62f8-4d39-ac15-539c6f0a3219
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:067cb085-03ce-45ca-b304-8995c641f218
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:52bf129f-8e40-4499-b8b0-fe9a30363f0f
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:a2f548bc-1c86-415f-aebf-69a114b4d22d
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:daf7cbb1-0742-42ae-b875-033f39a8ee49
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:dde82128-db0e-4a6e-b5e7-aabb37390b3e
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:f47cb40a-69e1-430f-b8d0-ce3bc0244863
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:33dcdd57-1b9d-466b-91ef-3004ece20252
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:9b14493d-59c4-4871-b1ba-0d1d143e1e8b
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:491ed9fb-e1c6-4818-b092-efad5d5a065b
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:5cdcb6fb-8612-4b16-b61a-16ca92ade4b0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:1b1f9a7e-9a69-45ac-994b-019c060211e7
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:72d1d40a-1665-475c-ac68-a9b2c4ef7381
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:d10d58a5-c5fa-4154-8173-c9b5ebfa84b0
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:1b08bcde-60de-44cd-9f8a-5dc276295ae4
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:ae7af1f0-c2cb-47e9-944a-d70facb371fb
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:d907a639-196c-427e-8078-4d409616217c
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:1d4f20e3-b031-4851-a0c9-05a5cfae8dcb
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:84aeb975-9593-4be2-bcaa-32a33cfa7d0f
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:cd265724-3926-4f0c-82b6-5212258eeb13
+INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:4330ccb4-af43-41d9-bfa9-88e5f71b1296
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 0
 INFO:parallel_requests_benchmark.test_multithreading_multiple_event_loops:Request completed successfully: 1
 INFO:parallel_requests_benchmark:
@@ -611,313 +611,313 @@ INFO:parallel_requests_benchmark:
 This is a new execution of the program.
 
 
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:58877a47-2308-4b22-95f9-b07079f0a655
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:82907b8c-25b9-46b9-8e01-3ad2128f7661
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:a53b164c-5e99-403d-ba8c-f09fe1875675
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:835119d2-937a-4282-98ab-b414b9ff8ed9
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:78550be5-9030-4280-8945-a432d89855a3
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:e68837d1-5ae5-4116-99a5-5ed71e3ed47c
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:e2dd4a81-0484-46ef-912f-6b10f4f0db87
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:ccd1a25c-2e26-4a64-b2aa-97370257b388
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:e5b7d2c1-ba5f-4d94-8d12-a49a258146d2
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:cf967587-1040-47a6-9613-c96fac845017
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:899158a5-65a8-4a8a-877a-88b1bfa6c3a0
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:17bd21fb-cbbe-491c-994b-598e1e80e0f8
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:c358c31f-1657-48a3-8e4a-43a2feedf219
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b19b32a9-d418-498b-9958-52cf8f8c062c
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:3c9ae20a-5ab0-4593-ac91-ca56faef4795
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:fc97980f-63ee-4e96-8b18-fbd11bedd451
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:56bca201-5df6-4382-9a1b-18aab8885808
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:3e678cf7-6707-4459-8bde-3a940b624b0f
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1d4b9794-d164-43c9-8e97-891260bcb38a
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:e38e99e8-78f5-4afd-9d26-688e4acb9362
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:50f24e82-c55e-4a8d-ba58-d9c805cd1720
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:0011fa1e-8a20-44b4-8386-0459b09bf200
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1dcd6ddc-9d43-4f53-99ac-0476a013d31e
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:010f9997-3108-40b8-9dba-bf6e3ec8b5df
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:276ad577-2b5b-4720-8146-9ebeffdfbbb6
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:13b7adc0-7627-4df7-a13c-695a86e1d991
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:85ca9232-4aa3-434d-b307-69d66ca04b49
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:90ea353a-6e2b-4cc6-ba10-37657da53d12
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1bcc01b7-7361-4a05-93d2-a5ec8dfdd591
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:95ead69a-064b-43f8-9d9c-590d3249ed8f
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:9ffdc539-463c-43fe-9543-98309cac1fdd
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:65ed0aee-e728-4d39-94ca-77cbd5d396ca
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:db14ca21-e141-4806-996c-4578823f1ea6
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:3eeb409a-e1c0-4a60-abb8-56916a215431
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:c98a1cae-d274-4955-8c4b-b7a306e46d09
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1b542838-e396-4be5-a5d2-1c8121347a82
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:82050878-e769-4f62-9611-11a0c536016d
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:017382cc-26ba-4c05-b763-417f780a1f06
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:40f4d51f-dedb-4f1d-bb9e-519821cc096d
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:703a9d7c-26ed-4488-a0a3-005233c40756
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:f9024f0d-ed8d-4c09-8297-0c22f13db72e
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:747ec8ff-e5b2-4209-b5f9-47e02c536db1
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:20ac2805-6f1c-422b-accf-4df92425fbb6
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:5650bfc3-a111-4c1f-8984-f35727bc2f17
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:926f9a69-bffc-43c3-9bec-4bd5fce06fcb
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:8bdd9020-1328-4b73-996a-808f98f9b085
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:c05d5c96-4d45-4e11-b89d-89aef4f8c6b7
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:d209c59c-0570-4565-872c-109fbba305d9
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b48672d9-7fd5-4f71-9dea-263f4c438d95
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:13a59070-b7b0-4438-b8de-e837be18e121
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:c6b1aee3-b4bb-45a5-8593-8b7ad98f7ab1
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:57404a2a-56d8-4851-b1d9-fbfa85a0d097
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:f98f9a2b-3c0a-4d06-85db-435bfeafc0bf
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1755491b-b66c-429f-93d1-93898d266e08
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:af0f0793-67e0-4c62-b96b-1797390a4b2d
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:151bc08b-e430-4244-a36d-57586d830968
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b56ece41-2455-4ece-ba58-7bf072ed40e3
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:85977dde-0250-4f97-966c-5df58e48ec38
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1aaa7854-ae79-4625-ac5d-d33fbff011fb
-INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b34a86cd-406b-4036-a28e-4c409cd5d0d2
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:53c7a361-2ace-4095-8480-f4d9428f6072
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:a98dcc21-80b8-4ab2-91aa-5c28cd9d2e35
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:be61b83a-7e82-4060-85aa-3c42e1bc93fd
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:79d37b8b-45df-485c-a18f-c56e1b94ab3b
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:39221ac4-16ea-4dc8-afea-7fab4db7ed39
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:003c1642-1831-4d0b-924a-6fd9426e9983
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:5eba34c9-bf0b-4845-bb36-4e6f1838895f
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:285486a7-78c7-4439-b625-fcc06065e11b
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:7ff4d2ad-ec64-45fb-9582-8cbea1b875df
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:dc2fb259-7070-41b4-847d-1912f9e27a82
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:2791cdda-d1c6-488d-a501-52a7c7e9ad5c
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:dd3346cd-2d87-4b5e-a7e7-43f552046b04
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:0a4e5679-b9cb-4320-ab3a-f89fe85d8fc6
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b2dc9136-dd6a-4816-abd8-96df3234c1a7
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:88168a0a-cc9b-41a7-932f-c8aaba5c6884
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:64a388d1-c3bf-4ec6-8d08-c7d31631831e
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b1447221-8907-474c-a69e-20a857b0af45
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:cedcaac5-e4ba-491e-aac8-aa668932750d
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:5b3f302a-b8df-4fee-bdac-68996d0a1f50
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:2aceef1a-70da-41a6-adad-5929732934bb
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:31a09b90-3117-4fec-9d6b-0e67b36c3480
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:ee7a1c3b-0ffd-4fff-a80d-e1f3e2d3502f
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:5e03d0bb-4b1b-45a9-b5e7-829fa5cb0d1b
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b5d6cd57-1434-4e91-9a6f-843c5594c0c7
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:dabd3b08-2c5f-443b-a22c-22a42268f2eb
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:040ae4c0-d6a6-40f4-a428-abc39594902c
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:a4bd4242-b905-4b8f-9bee-a3e622a0a35a
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:3c8dd236-b9a1-4611-8c9a-b2a29f8d762b
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:d656bd96-808f-4b40-a468-490002c65a60
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:b93ac9fc-b6a4-4452-a10a-24034e52c2c7
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:114fe348-2cca-4c2d-9480-27f703e1d944
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:5433b246-b092-4a18-9111-d9cec46be708
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:9e744a3e-0667-4f95-b42c-8e243b8942b0
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:65b76995-3f6e-47f8-b3c6-512585f32ead
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:7327a2b8-845a-4967-8f16-09c60356592c
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:3d663514-30d9-4e49-af61-627af5eff47f
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:4e73bd32-9092-4a74-854c-32a70cc0e152
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:11c81406-93d4-43c9-809e-166edd470dd0
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:e2daa616-9e16-4cd1-a5a5-a5079fa4776e
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:225f21ff-e3bf-4dad-8897-b6f99e1585fe
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:1c67b4c5-6e28-4fd6-9e52-2dc0dc8fa581
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:57552934-31a1-49bc-865d-3ec70c6d320a
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:a78c6de2-3a04-401e-a085-714109743395
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:458a2170-08e1-42ec-adbe-356ef163654e
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:bbcf73d2-2c93-47a4-8956-f4646e7f68de
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:4ea24e81-101e-4eb2-8416-10141b447038
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:78f83e6f-a34e-4672-8056-86d0219e33db
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:3a747457-8865-4087-909b-4a0305bc3d26
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:6d5c1815-c113-4d60-aa50-153bd0599408
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:75f575eb-173c-4511-8b27-9b537af9bd51
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:c4a1d525-8875-4b4d-9552-993dd83ab0d9
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:ef458b3c-3279-4691-931b-5440d4af4b73
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:73fdb6ea-3edc-4065-a9d2-cadd57ccb810
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:13a80561-16f1-4ca3-903d-1d69eb5efec3
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:95a2537a-8975-418f-9d8a-0691be1c2dc9
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:fd729b15-c353-4af8-bc70-d405ff6eaea6
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:22443083-da04-4265-80a9-8232bb57e85d
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:c8e76809-4021-45ea-8aa6-05f208d6fe27
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:8deb72fd-3558-4716-afa6-ae536a3617df
+INFO:parallel_requests_benchmark.test_async_aiohttp_anyio:8f5db48e-7df7-4461-b777-d5ec9b0a2b9f
 INFO:parallel_requests_benchmark:
 
 This is a new execution of the program.
 
 
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d5b5a35d-de6c-4abc-a33c-55487376db86
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:c8128738-9184-4e59-b27f-29da88c91390
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:dcedceeb-4b0c-42a1-a1fa-261eecdca8dc
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e90c2b0f-4e62-4b03-94ea-e8672b45f88d
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a4529a52-6d98-4938-becd-147bd2857967
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:288d1fb4-7760-4b95-966e-7632c4d0817a
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e589af36-b578-4d09-a871-0ab1c7a9668a
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:9b7959d3-a899-4a59-bee3-d6c9ed977f4e
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:5904e1d7-3892-474d-b6b1-d0f49ac9b6cd
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:8e7e69c8-c980-44b9-b360-fa23083a584d
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:1abe70b2-e666-4281-b421-5472a3fbcd95
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:12f10320-67d2-40eb-aad0-ab563718f9f9
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e2f2398e-895d-4328-a452-d50676a1840a
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:5cc35aef-65ac-4b50-b6db-beb1bf2dfd01
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a2187c05-3cad-49b9-bf8f-42e9c815d224
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:1cc4cf3b-451c-4672-88b4-af2245753829
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:6083bde6-d10c-4f92-b503-a3429175fe01
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:c7353bc7-a4aa-4fed-849a-fb3655e05ea3
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:48d093e9-8e4f-47c7-80cd-74851927bae8
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d270e582-a1c3-4c2b-a04f-e252840d5a3f
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:4c4746b5-7c0d-4c73-9ab7-69d491b0aace
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:4cacd2f4-5fc8-4f07-b07d-4fba7c200bbb
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:43762426-7a4d-4945-b55c-9ee7917f836a
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a54eb8ea-ee6c-4853-9b1e-ccd7f5b75cb6
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:3a9b1454-acde-4240-9bae-15577a696379
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:988015f8-d896-4b45-9805-c8b035e4fdcd
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:3a44d2f0-7c22-40b8-827c-0d4b02f553dc
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:928b0f09-2c87-46a7-ae84-01c4e68f3736
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:5723ef7d-1ed7-468c-8bdb-af8d39071b58
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d4a38933-23af-4981-8632-3820fb6a1fd4
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:16647718-a61d-41fa-be6d-09c0c9773e7c
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:c8b281cf-effc-425d-a7ec-b5626ae57854
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:f37cb097-73e7-4676-924d-cb2016ae5a24
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:18820923-f5e1-473f-b4ca-91324f08a48f
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:789d58f5-30ed-4554-850b-5c28d7d3648d
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:05321eb9-d55f-47cc-bd4f-631f1aa543d9
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:fe6c6305-2aec-4826-bb45-32bcc96b00f6
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:6af2129c-e5a3-4128-8eb7-871105c4f58f
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e3c305df-c066-4235-b70c-9af80ec90fb2
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b9b65f9c-be25-47fb-80d0-466c5ce903d9
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:1279102f-e761-48a9-aa35-02b596bd0847
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:42d5cd40-1451-44d8-98c9-705199ae3fa1
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:33b15e31-cd3a-4cd4-9beb-ee926d737ea8
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:dcaa34f8-489b-40d4-9c54-23d0dcdf7385
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:cd0a4cb0-4884-433b-affe-a5bce5634a76
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:63800af8-443f-4028-b703-c5a2d0f1ff08
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:3fd2f4e8-0b78-47f6-abea-f42c7ac4d195
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:9bb508f9-dd7b-479f-b16b-5b0045190991
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b625735e-ba4f-4dce-9b70-639847f0c82e
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:55a777e2-79fe-4f62-820c-c3cdd4fa1754
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e87f6f90-241c-48dd-896a-d52f96940e06
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:1519845a-29ee-4892-8497-09e3a2175957
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:727bf999-c140-4c51-97ff-0a8c8cfcdc4a
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:02ac74de-bb7f-4727-98d3-3188cdda78cd
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:12af45d6-e022-41c9-bfb1-eeaec165f683
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:f8217a7e-34a1-4bbe-a4f6-25fd4d4ad70b
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:8350ffb8-f19b-4c7f-a553-4c4071d908f4
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a4773363-6271-4b7a-99a4-61279618801e
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e2d2fdf4-87b4-4e7d-92ea-7ba1ab62ce07
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:fe0193bf-252f-4b97-99e1-0c09caafb934
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:9620a9c1-b746-4f01-b821-c9120fb540e2
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:c40f6936-bf91-48fb-b388-b03f7db4b985
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:4f3f6ac5-f983-4418-b3c0-c5a27539cb76
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e51f9856-2548-4156-b5bb-65c4670be584
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d9f53b2c-14da-406d-a7ad-7b775b9be30f
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:95737842-c765-4767-8a30-e57551050178
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:035c9b31-0f29-4b3b-9e1d-6bf5f9e40c80
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:8b2368ef-c48d-4f92-9619-7a948534beda
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a974debd-a8d2-46f0-8673-98e95ebaa483
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:f9e46b2e-5121-485a-9e8f-3648abf4978a
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:4f039b86-3e24-4f30-83d7-77e35d794367
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:7f51453d-f716-4ecf-a97f-efc130d1d436
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:4736278a-58a3-45a3-8915-e186f488c0c4
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:7965fb31-647a-4e1d-8221-711ae8bafffd
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:8f79eaeb-bbe8-40b4-8100-643539201ef4
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b860cc3e-6f0e-41f5-a447-c8c25b30b6bc
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e04d0cb3-58d8-4188-93cf-0681a07640ad
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:847dd16c-34a6-4f41-97ce-3a821e17d6e3
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:5208363b-411c-4b8d-bac2-eedda3b51448
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:1dd5c89b-8298-4953-abae-41d538465441
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:0cb3518b-ef5e-4a65-a1ee-fb23e1365a51
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a490b016-52a5-4a3c-acbe-b1622dfddfd8
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b0aa08bc-68b5-41a8-9bfc-02983e8ce777
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e7f3d37d-47a1-4dcc-ade6-51a269e61744
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a7248534-3e58-4094-9195-66f87263938e
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:937f151f-41dc-40cf-8567-6854ff728734
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e6abffc9-a13b-4cdc-b77c-eb904a64d735
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b8f6a1b5-37cd-4ccd-a893-ddf17960f477
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:178d8c20-6d42-4bf1-8597-1463f4b1c109
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:3757dc05-4c55-452d-a7c2-816fd3b4ea3d
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:fb1a2256-46c0-4f9e-8e36-1fbee9bcba4b
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:6de2c3a9-9b6e-41ba-af6b-a1d553e4f0c1
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:0b17a207-2ba9-4f7f-8641-f001884de394
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:0dff93d1-7ef2-45e3-bb05-8eecf6b99860
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:9dbb223a-dfa3-4d91-963b-cd2975b04d11
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a2ef41e1-7d3b-4617-826a-6ed66bd91d80
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:0fff5681-17d2-49e2-95c8-90f60c752dcc
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:0fb5f941-1444-443e-81be-02d97ed2efb6
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:7899894b-1502-45a1-b7e0-c3ff0f081027
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:e84e1542-d906-4d6c-8f0b-18eb1c709f44
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:dc81d8e3-3521-4982-a770-b7380f0867d6
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a9de3c7e-606a-42b0-a538-ec93e300bf80
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:2fa90512-ba4c-489a-be39-97c358dde5db
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:a1a2df09-1004-450f-b21d-16845bfb5395
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:db65fbfa-74c2-4499-a490-be5c8c9b4f2f
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:fdb0f0fc-d705-451e-bda4-d511626f8f47
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:5eed0940-5117-4415-9bec-4c44534ed4d6
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b2213042-5d71-4909-844e-813159d5edf6
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:c41fdb92-5dd3-49e7-a006-833fbba706d9
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:80a74b7f-953b-4957-9bf2-d5fdeed3a5f8
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:279f2757-f179-4227-a981-f2ca6acc2430
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:96d7523c-c022-41d8-af84-20851c63e8c7
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:14f66af0-9f47-4f33-a2d4-a6be37fa09f5
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d0d382c3-9184-49bb-90de-bc76d0fe6537
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d015fa92-6271-4808-bda7-3dced99a3773
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:5bee4b23-e05e-4ea7-b5a9-7c0052d10e47
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:538fbac8-dcd9-4438-8303-401b7a8d1ece
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:d57a276d-4f31-4955-9109-75914d492008
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:0c262b6b-26f8-4fd3-9c63-fff0cd112d94
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_asyncio:b57ed371-44d3-40de-925a-8f6b26ca7c41
 INFO:parallel_requests_benchmark:
 
 This is a new execution of the program.
 
 
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:ef05f70c-83e3-41de-ae9d-7463723599a7
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:1e1cfde4-d199-412e-a82a-a1028bb240d3
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:73097bf7-8d50-4c64-b71a-b9775c5a5d1e
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:e27f27f2-7fd7-4362-9beb-efe3cdcf6171
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:1f3bbf1d-48bf-47f8-8f6b-9bae6a3ba144
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:7355c82a-f061-4ed8-99d2-0614f8265ce5
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:7e80a91f-df3a-4997-8bd6-c220ed220903
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:640edff7-371d-483e-a46e-5fd2d71ff6c3
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:e6a98441-cfa1-4ae7-9d11-13f5a8c0b43a
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:fdd5e50d-a33d-469a-bfbb-c4567b681f6c
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:06550c1e-27f3-428d-87aa-4b52af10edca
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:bf0a5c1a-4499-488e-aab1-83741a849d41
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:56a428e1-dd77-4f0c-ad2e-c4ee8fcfc419
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:3fe3961d-d014-477d-b396-f4dd28945927
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:65cb93d4-2e4b-45ee-9bcb-1f1169c7fcf8
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:81c501fc-db77-448d-8682-9d7194996172
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:eba4228e-1239-4283-930a-e84bcc2b80f1
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:466b5961-73af-47a9-8705-c6ecbfbc88f5
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:97dcc3cc-24e8-4c46-9adb-1ff1fd3c21ee
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:90f61ac1-cdfc-4e36-a937-e3f428fe0b2d
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:2df3d18d-4b0c-49c5-a652-643481387da8
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:80041188-e9b4-4424-b4fa-572cf59586c7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:a053993a-addf-4494-935c-50e732c054e2
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:38070c3d-ecfc-45f5-94df-957fa7d1dad7
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:73055138-498c-4737-aace-2d7e8d27937a
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:d13a6057-f384-4dba-962c-c08c579735e7
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:56a04c69-04b7-4ba5-bb07-518c40bd6102
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:933d0425-62d6-4d3c-94b8-9fe1bd771476
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:c60b8bed-b1e1-4c54-b8f0-e1020554c39a
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:9f5592c3-b122-483f-a84c-9cd423829e98
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:22f33cd2-5cd6-4bd8-8339-4183fe648b3f
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:697b2bf4-4349-43f3-b196-67cafcf25474
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:c7c6c55d-672b-4fe4-8727-b0359f205827
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:14f472b5-128e-4dfb-a859-6dd00e2e43f2
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:02954a3e-c7b1-473c-97d0-f42aa1a7c67f
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:ea610d94-4320-4266-81de-7e8d76c8c08c
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:e8ba4f78-c37b-45de-b716-51ba4d8f99b5
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:7cd540d4-4659-4e6d-80e6-a7dd6b9d9b92
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:bd16e994-044b-4316-a4bd-8386e586d8e3
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:c36a0fe5-c1f6-4628-8403-eeb122744c12
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:593e743e-ff30-48d4-b6d6-3a0f333e5b54
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:fae27629-669e-4f77-8c0d-f96b8843b1ac
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:ad6d9038-94b7-49ad-a676-6f45ba6b7987
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:b37c9706-e5a3-4f5a-a18a-cbce17611a8b
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:4758fb3a-1814-4f0c-9b6a-1ec44809f128
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:57a56d27-d258-4768-aadf-43c973d187ff
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:5dd0c480-79de-4bba-a0ba-79d0b84c7ccf
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:fdb05528-3518-4bb5-a437-810d92d6cf5b
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:047593aa-a885-4b4e-88dc-de185fdd7160
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:e032c71f-10ba-4339-98e5-a71d93dbcf67
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:d16a8ccd-1946-411c-8f7b-7f8314ff78e7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:573c0988-e3ba-4889-8aa7-6574314bf8de
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:191ba043-3bf8-4d35-a4ab-9317ce2cb81c
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:bf083cb8-92e9-40f1-a0bf-282a563ce679
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:caad0473-c521-4ec8-b7e0-60e53aa18425
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:7da3b78f-81fc-4596-8b6e-164606e24736
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:de10e7b0-df47-45cf-9966-8425eabbdd86
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:fb580864-b5a0-47c1-980f-0fd64436d6b5
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:b0d58218-92b6-448d-b188-4049ec666b38
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:142dc1d3-5e02-4c54-a010-4309ce52f91d
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:b71ec53e-74f7-4d9f-bb22-f8a834098481
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:be23527a-b9f7-47ea-a69c-a9a87979d88b
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:f368453a-0181-42dc-86cf-dfdb196a905e
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:42135593-b187-426a-adf6-cec2b56bb31e
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:ab7b9022-2e96-4059-8cb2-a7fc6003fef5
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:1fe8292d-8a61-4e40-8fae-57687ec3a67a
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:1f7e6119-642c-431b-99a4-7170331a8c0d
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:a95367d0-d7c4-4b78-bc2d-59b8f33632a5
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:f2626e95-b551-4872-9da8-d1746a651a5f
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:01bb2706-3fb9-4453-ba8a-03bf7aacb33e
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:2f0a1589-b975-47c8-a1f9-b34aea99cfb7
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:3d268448-9aac-4d1b-8c32-53f26af5275f
-INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:852c4388-7435-4ff1-83e4-bcd27f87840b
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:052e73aa-6826-4597-b122-d4a0a91ac457
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:d7448b8b-dfed-46d2-9d00-bbac54ace2b4
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:ea8999e9-8c95-4c93-a94b-0530125372ea
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:3ff64be6-53f3-4938-bb41-2f1a8426ce62
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:6327639c-b6d1-4880-aa35-a27ee29b8d7a
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:e1879caf-fd04-42b3-b83e-a614643c4c00
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:208b3f38-becf-41e0-8564-94110a7fc85b
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:9d7ed8e8-2765-437d-824c-010a38112744
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:82bf67a4-8299-40a6-b5f7-ce4f55efb70f
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:6fd692e4-8474-4811-ab7f-e77097b4e2d7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:55784317-4d99-438c-a2d3-934bb280993c
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:c005b97d-1a64-44f0-9bd1-c6fa535f7ea0
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:333c7687-246a-40b3-8611-b93ff7370e82
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:0dd6d3ee-41c6-41c3-89d0-a926aa416810
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:b9966113-9a62-466f-821f-fcf022b591d7
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:52bf3de6-6f08-4a96-956a-d0fff1c9e545
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:5c65db51-964a-452c-bd6f-11e10551eb02
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:e9943c97-8650-4b83-8a89-87c5bd215ed4
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:d24a26fb-3e44-402d-9c80-b802e8772f10
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:b9ec2acd-185f-44bd-b57a-290c797df8b5
 INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
-INFO:parallel_requests_benchmark.test_async_httpx_anyio:815d7fd3-fe02-464c-b910-ff78b13583ae
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:6edd746d-09f7-4b9f-aad9-a5ccf951878f
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:eded5ef4-b803-46ed-8d83-f421b8280b25
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:3af3e399-c741-4414-ab16-e9e7556adc8c
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:a68beb0e-37c7-4c62-85c3-137708932f66
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:c09f4817-081b-4e3d-9821-fea0db0c1110
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:5030f455-b5ea-40dd-b867-dd1f4432f5d7
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:33eb2acb-0516-40c9-85be-b585cdedea7e
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:f3e05ae1-7122-4f65-858e-5b456e112743
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:86d16e62-d255-44bf-9a78-c8502aff8bc5
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:87016bb9-cbcb-4061-ba69-372b1f5079c4
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:f2835d3a-43d1-4c7e-affb-c2b11d0fd26b
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:dcf1765f-a3fc-45d7-b838-a2a66c234afc
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:59ec0ec4-67c4-4b5c-88dc-f6c4ae2cddf4
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:c2673ac4-8d10-49fc-8e87-194487e20bab
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:f11099a7-ccb4-409c-b0b1-d80e65ab6d8b
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:79d25440-a827-489f-887d-cc4aba58cd45
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:fefcc8f5-fcc8-4d15-b357-b1d2e83b110c
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:768f44fc-a617-42df-ac24-35823603be8f
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:b8d8e067-f0bd-4111-917b-b752677140a5
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:f680f8b9-6a22-4eaf-bf77-830cbc197152
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:9fd9e9f6-589d-4a45-a98b-0c753eb2df55
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:3b85d412-12ca-410b-a739-8213b002f411
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:80f6f819-70f0-47ef-844f-59b8f849fc31
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:39e30851-7fbd-493a-aee0-d8acf86d01b2
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:555279b9-3277-467c-83a1-21f6add0ebf9
+INFO:httpx:HTTP Request: GET https://httpbin.org/uuid "HTTP/1.1 200 OK"
+INFO:parallel_requests_benchmark.test_async_httpx_anyio:e3a177d9-0415-47b2-892c-848f55588b69
