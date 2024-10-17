@@ -9,16 +9,18 @@ I started with requests and httpx SyncClient to define a baseline and then I loo
 
 The execution time for a single run based on the average of 20 executions is:
 
-1. test_synchronous_requests                         0.208629
-1. test_synchronous_httpx                            0.231735
-1. test_multiprocessing_requests                     0.103449
-1. test_multithreading_requests                      0.065041
-1. test_multithreading_httpx_single_event_loop       0.031216
-1. test_multithreading_httpx_multiple_event_loops    0.056664
-1. test_async_aiohttp_asyncio                        0.000023
-1. test_async_aiohttp_anyio                          0.065789
-1. test_async_httpx_asyncio                          0.078591
-1. test_async_httpx_anyio                            0.088228
+| Test Name                                         | Duration   |
+|---------------------------------------------------|------------|
+| test_synchronous_requests                          | 0.208629   |
+| test_synchronous_httpx                             | 0.231735   |
+| test_multiprocessing_requests                      | 0.103449   |
+| test_multithreading_requests                       | 0.065041   |
+| test_multithreading_httpx_single_event_loop       | 0.031216   |
+| test_multithreading_httpx_multiple_event_loops    | 0.056664   |
+| test_async_aiohttp_asyncio                         | 0.000023   |
+| test_async_aiohttp_anyio                           | 0.065789   |
+| test_async_httpx_asyncio                           | 0.078591   |
+| test_async_httpx_anyio                             | 0.088228   |
 
 
 I stated from the initial work in [async-http-requests-tut](https://github.com/nikhilkumarsingh/async-http-requests-tut).
